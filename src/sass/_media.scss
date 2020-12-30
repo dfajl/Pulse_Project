@@ -1,0 +1,39 @@
+@media (max-width: 1200px) {
+    .header {
+        &__logo {
+            width: 220px;
+        }
+        &__phone {
+            font-size: 15px;
+        }
+    }
+    .promo {
+        &__header {
+            font-size: 33px;
+        }
+        &__subheader {
+            font-size: 22px;
+        }
+        .button {
+            &_main {
+                width: 240px;
+                height: 40px;
+                font-size: 14px;
+            }
+        }
+            
+
+    }
+}
+    
+
+        
+            
+            
+                
+
+
+            
+
+   
+
