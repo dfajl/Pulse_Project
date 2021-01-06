@@ -17,7 +17,12 @@
     &_submit {
         width: 100%;  /* этим свойством мы говорим конпке подстоиться на всю ширину формы */
         height: 55px;
-        font-size: 16px;
+        font-size: 16px;  
+    }
+    &_mini {
+        width: 131px;
+        height: 40px;
+        font-size: 14px;
         
     }
     
